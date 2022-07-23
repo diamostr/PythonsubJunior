@@ -1,0 +1,2 @@
+# PythonsubJunior
+my study projects
